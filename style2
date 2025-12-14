@@ -1,0 +1,25 @@
+<div class="px-6 mb-10">
+  <button class="w-full bg-text-main text-white h-14 rounded-2xl flex items-center justify-between px-6">
+    <span>Bắt đầu đọc</span>
+    <span class="material-symbols-outlined">arrow_forward</span>
+  </button>
+</div>
+
+<div class="px-6 mb-10">
+  <div class="bg-surface-subtle rounded-3xl p-8 text-center">
+    <p class="font-display text-2xl italic">
+      "Cậu Vàng đi đời rồi, ông giáo ạ!"
+    </p>
+  </div>
+</div>
+
+<div class="px-6 mb-10">
+  <h3 class="font-display text-2xl font-semibold mb-4">Giới thiệu</h3>
+  <p class="text-text-muted leading-7 text-justify">
+    Lão Hạc là bức tranh chân thực và đầy nước mắt về số phận người nông dân Việt Nam trước Cách mạng...
+  </p>
+</div>
+
+<div class="px-6 mb-10">
+  <h3 class="font-display text-xl font-semibold mb-4">Góc nhìn thú vị</h3>
+</div>
